@@ -1,5 +1,5 @@
 layout: page
-title: "Mediocre Projects"
+title: "projects"
 permalink: /projects
 
 ## Projects ordered Chronologically:
