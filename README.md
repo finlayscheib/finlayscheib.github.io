@@ -12,3 +12,6 @@ This was a group project written in conjuction with Logan, Finlo and Arden (Fell
 ### A Deep Learning Architecture for Inferring Physical Activity and Sleep from Wrist-Worn Actigraphy Data (Coming Soon!)
 
 This is my current project for the CAM MSc.
+
+---
+Word of Warning: Read the above one at a time. Some may suffer from symptoms of [Whiplash](https://www.nhs.uk/conditions/whiplash/) going between the Topology and Deep Learning.
