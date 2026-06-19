@@ -17,5 +17,6 @@ This is my current project for the CAM MSc.
 Word of Warning: Read the above one at a time. Some may suffer from symptoms of [Whiplash](https://www.nhs.uk/conditions/whiplash/) going between the Topology and Deep Learning.
 ### DARTH Group website:
 **[DARTH Group](https://www.darth-group.com/team)**
+The research group my Master's project supervisor (Thanasis) runs! Check it out!
 
 <!-- <img src="3-spiral.png" alt="A spiral" width="250" style="float: left; margin-right: 20px; margin-bottom: 10px;"> -->
