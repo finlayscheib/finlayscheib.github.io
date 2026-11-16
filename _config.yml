@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: minima
 title: Finlay Scheib's Homepage
 subtitle: MSc Computational Applied Mathematics @ Uni of Edinburgh
 description: >-
@@ -8,8 +8,5 @@ email: Finlayscheib@hotmail.co.uk
 
 avatar: "IMG_4210.jpeg" # Pointing to where you uploaded your photo
 
-# Navigation Links (Adds a link to your blog page in your menu)
-navigation:
-  - title: "Home"
-  - title: "Blog"
-    url: "/blog/"
+header_pages:
+  - blog.md
