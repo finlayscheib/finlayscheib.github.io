@@ -1,12 +1,8 @@
-theme: minima
+theme: jekyll-theme-minimal
 title: Finlay Scheib's Homepage
-subtitle: MSc Computational Applied Mathematics @ Uni of Edinburgh
+logo: /IMG_4210.jpeg
 description: >-
-  Oops! You must've gotten lost. Take a look at my mediocre projects whilst you are here...<br>
+  MSc Computational Applied Mathematics @ Uni of Edinburgh<br><br>
+  Oops! You must've gotten lost. Take a look at my mediocre projects whilst you are here...<br><br>
   <strong>Currently:</strong> AI Researcher / Data Scientist @ Grant Thornton UK
 email: Finlayscheib@hotmail.co.uk
-
-avatar: "IMG_4210.jpeg" # Pointing to where you uploaded your photo
-
-header_pages:
-  - blog.md
