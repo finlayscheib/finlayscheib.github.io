@@ -1,3 +1,7 @@
+### 📝 [Read my Blog →](/blog/)
+
+---
+
 ## Some Projects:
 ### Overtwisted Contact Structures and their Supporting Open Books on 3-Manifolds - March 2025
 **[Interesting Low-dim Topology stuff that I have forgotten](4H_Project_FINAL.pdf)**
