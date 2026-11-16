@@ -1,16 +1,15 @@
 ---
-layout: page
+layout: default
 title: Blog
 permalink: /blog/
 ---
 
-Welcome to my thoughts on AI, data science, and tech.
+# Blog
+
+Welcome to my thoughts on AI, data science, and math.
 
 {% for post in site.posts %}
-### [{{ post.title }}]({{ post.url | relative_url }})
-*{{ post.date | date: "%B %d, %Y" }}*
-
-{{ post.excerpt }}
-
----
+* [{{ post.title }}]({{ post.url | relative_url }}) — *{{ post.date | date: "%B %d, %Y" }}*
 {% endfor %}
+
+[← Back to Homepage](/)
